@@ -1,2 +1,2 @@
-# Rutas-de-Transporte-P-blico
+# Rutas-de-Transporte
 Proyecto final de Algoritmos Clásicos y Estructuras de Datos. Gestión de rutas de transporte público.
