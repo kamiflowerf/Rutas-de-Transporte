@@ -5,7 +5,7 @@ public class IdGenerator {
 	
 	public static String generateId() {
 		UUID id = UUID.randomUUID();
-		return id.toString().substring(0,7);
+		return id.toString().substring(0,6);
 	}
 }
 
